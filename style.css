@@ -1,0 +1,80 @@
+body{
+    background-image:linear-gradient(#8c00ff, #00aeff)
+}
+.headings{
+    font-family: 'Fredoka One', cursive;
+    font-size: 55px;
+    color:white;
+}
+.subheadings{
+    font-family: 'Nunito', sans-serif;
+    font-size: 30px;
+    color: white;
+}
+.text{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color:mintcream;
+    margin: 20px;
+}
+#alpha{
+    font-family: 'Fredoka One', cursive;
+    font-size: 35px;
+    color: #ff6bd2;
+    margin: 20px;
+    background-color: white;
+    border-width: 0px;
+}
+#number{
+    font-family: 'Fredoka One', cursive;
+    font-size: 35px;
+    color: #529ff7;
+    margin: 20px;
+    background-color: white;
+    border-width: 0px;
+}
+#concept{
+    font-family: 'Fredoka One', cursive;
+    font-size: 35px;
+    color: #ffc117;
+    margin: 20px;
+    background-color: white;
+    border-width: 0px;
+}
+#topics{
+    background-color: white;
+    border-color: lightskyblue;
+    border-width: 5px;
+    border-radius: 20px;
+    border-style: solid;
+    margin: 20px;
+}
+.learn{
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    color: #000000;
+    margin: 20px;
+}
+#alpha:hover, #number:hover, #concept:hover{
+    font-size:45px;
+}
+.img{
+    border-radius:20px;
+}
+.letter_div{
+    margin:15px;
+    border-radius: 20px;
+    background-color: lightpink;
+}
+#alphabet_body{
+    background-image: linear-gradient(#ff4aad, #ff2164) !important;
+}
+.song{
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
+    color: #dd1e87;
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    border-width: 0px;
+    border-radius: 10px;
+}
